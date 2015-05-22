@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1398112041 source:/home/alessio/Documenti/Progetti C/FP.manai.alessio.48867 - Copia/code.c
+	"header.h"
+
+1397653102 /home/alessio/Documenti/Progetti C/FP.manai.alessio.48867 - Copia/header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
